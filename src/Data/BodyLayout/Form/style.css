@@ -1,0 +1,15 @@
+#dropdown {
+    display: block;
+    width: 100%;
+}
+
+#dropdownContainer {
+    margin-bottom: 10%;
+}
+
+#button {
+    display: block;
+    width: 40%;
+    margin-left: auto;
+    margin-right: auto;
+}
